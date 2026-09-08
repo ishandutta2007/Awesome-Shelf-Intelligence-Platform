@@ -1,4 +1,6 @@
-# 🛍️ Awesome-Shelf-Intelligence-Platform
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Shelf Intelligence Platform Banner" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
@@ -7,8 +9,6 @@
   <a href="https://github.com/ishandutta2007/Awesome-Shelf-Intelligence-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Shelf-Intelligence-Platform?style=social" alt="GitHub forks"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
-
-![Awesome Shelf Intelligence Platform Banner](assets/banner.svg)
 
 ## 📌 Top Shelf Intelligence Platform Ecosystem
 
